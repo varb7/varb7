@@ -1,6 +1,6 @@
 # Varun Bhoj
 **AI Engineer | Agentic Systems & Multi-Agent AI | RAG & LLMOps**
-Varun Bhoj is an AI Engineer specializing in Agentic Systems, MLOps, and Retrieval-Augmented Generation (RAG) architectures. With a strong foundation in both artificial intelligence and software engineering, he has extensive experience designing and orchestrating multi-agent workflows using frameworks such as Semantic Kernel, LangGraph, and CrewAI. His expertise spans deploying scalable LLM inference pipelines, building enterprise Knowledge Graph-RAG solutions, and developing cross-platform AI agents. Varun has successfully deployed intelligent systems across the automotive, healthcare, and enterprise domains.
+I am an AI Engineer specializing in Agentic Systems, MLOps, and Retrieval-Augmented Generation (RAG) architectures. With a strong foundation in both artificial intelligence and software engineering, he has extensive experience designing and orchestrating multi-agent workflows using frameworks such as Semantic Kernel, LangGraph, and CrewAI. My expertise spans deploying scalable LLM inference pipelines, building enterprise Knowledge Graph-RAG solutions, and developing cross-platform AI agents. I have successfully deployed intelligent systems across the automotive, healthcare, and enterprise domains.
 - **Location:** Erlangen, Germany
 - **Contact:** [varunbhoj1@gmail.com](mailto:varunbhoj1@gmail.com)
 ---
