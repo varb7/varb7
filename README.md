@@ -64,5 +64,4 @@ I am an AI Engineer specializing in Agentic Systems, MLOps, and Retrieval-Augmen
 <a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a>
 </p>
 
-
-![Visitor Count](https://profile-counter.glitch.me/varb7/count.svg)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=varb7&countColor=%23263759)
